@@ -1,0 +1,313 @@
+<resources>
+    <string name="app_name">Reconciliación</string>
+    <string name="action_settings">Settings</string>
+
+    <!--Texto de página principal-->
+    <string name="bs_texto">
+    <![CDATA[
+    <html>
+     <h1 style="font-weight:bold;color:brown;">Fundamentación</h1>
+     <h2 style="font-weight:bold;font-style:italic;font-size:100%;">BASE SOCIAL</h2>
+     <body style="text-align:justify;color:black;">
+      <p>La sociedad se ha visto enfrentada a grandes cambios marcados negativamente por la
+        influencia de actos de violencia que han dejado cicatrices en el corazón de la humanidad. Nuestra historia parte de guerras, cada
+        "victoria" dejó consigo ríos de sangre. Sin embargo, es hora de dejar todo esto atrás, de permitirle a la razón que lidere y guíe nuestro
+        actuar marcando un camino hacia el alcance de metas.</p>
+       <p>Debe quedar grabado que "quien no conoce su historia está condenado a repetirla" (Santayana, s.f), por lo que el
+        conocimiento es ahora la mejor herramienta que tenemos para seguir adelante, dejando huellas con pasos de paz, amor y reconciliación.</p>
+       <p>A partir de esto, la escuela se convierte en centro de esperanza, fuente de sabiduría y base para la construcción de una
+        sociedad libre desde la formación de seres íntegros. Es un reto para los maestros identificar cómo influenciar el ser, cómo despertar valores,
+        cómo fomentar el reconocimiento del valor de la persona, cómo comprender el fundamento o raíz de comportamientos indebidos, cómo acrecentar la
+        autoestima; pues es la convivencia desde los valores la base que fundamenta el mejoramiento de la sociedad.</p>
+     </body>
+    </html>
+    ]]>
+    </string>
+    <string name="nl_texto">
+    <![CDATA[
+    <html>
+     <h2 style="font-weight:bold;font-style:italic;font-size:100%;">NUESTRA LABOR</h2>
+     <body style="text-align:justify;color:black;">
+      <p>El Centro Educativo Rural Santa Ana en su sede principal, alberga en su mayoría niños, que en medio de su inocencia están reconociendo
+      el mundo que los rodea, comprendiendo el entorno, explorando las posibilidades que éste ofrece. Con el fin de aportar a su formación, fortalecemos
+      desde la asignatura de cátedra de la paz, la resolución pacífica de conflictos, creando espacios de diálogo y reconciliación, de manera que se
+      mitiguen las posibilidades de violencia en el aula y se mejore el ambiente escolar desde una sana convivencia. </p>
+       <p>En este blog mostramos algunas de las estrategias llevadas a cabo, siendo construcción grupal.</p></br></br></br>
+     </body>
+    </html>
+    ]]>
+    </string>
+    <!--Texto de fábula-->
+    <string name="intro">
+    <![CDATA[
+    <html>
+     <h1 style="font-weight:bold;color:brown;">Fábula</h1>
+     <body style="text-align:justify;color:black;">
+      <p>Los estudiantes del Centro Educativo Rural Santa Ana, con el apoyo de su docente crearon la siguiente fábula, seleccionando para su
+      contenido algunas experiencias de su vida escolar y de la realidad que a diario observan a través de los medios de comunicación y en sus
+      entornos cercanos.</p>
+     </body>
+    </html>
+    ]]>
+    </string>
+    <string name="parte1">
+    <![CDATA[
+    <html>
+        <head>
+        <style>
+        p {
+            font-family: "Times New Roman", Times, serif;
+        }
+        h3{
+            font-family: "Times New Roman", Times, serif;
+        }
+        </style>
+    </head>
+     <h3>EL PARAÍSO DE LOS ANIMALES</h3>
+     <body style="text-align:justify;color:black;">
+      <p>Un día, en el bosque Paraíso, se encontraron Juan Felipe Lobo, Valeria Jirafa, Cataleya Lombriz, Carlos Conejo, Martín Guayacán y Alejandra Rosa;
+      era el primer día de escuela y decidieron irse juntos.</p>
+     </body>
+    </html>
+    ]]>
+    </string>
+
+    <string name="parte2">
+    <![CDATA[
+    <html>
+        <head>
+        <style>
+        p {
+            font-family: "Times New Roman", Times, serif;
+        }
+        div{
+            font-family: "Times New Roman", Times, serif;
+        }
+        h3{
+            font-family: "Times New Roman", Times, serif;
+        }
+        </style>
+    </head>
+     <body style="text-align:justify;color:black;">
+     <div>
+      -¿Qué te pasa? ¿Por qué lloras?<br>
+      -Porque tengo mucho miedo, contestó Valeria.<br>
+      -¿Y por qué? Exclamó Catleya.
+      -Porque no quiero que me hagan bullying. Exclamó Valeria.<br>
+      -¿Bullying? Preguntaron todos en coro, ¿qué es eso?<br>
+      - Ayer vi en la tele que el bullying es violencia, contestó.<br>
+      </div>
+       <p>Ante esta respuesta todos quedaron sorprendidos pero necesitaban más
+       información para aclarar sus dudas.</p>
+     </body>
+    </html>
+    ]]>
+    </string>
+
+    <string name="parte3">
+    <![CDATA[
+    <html>
+        <head>
+        <style>
+        p {
+            font-family: "Times New Roman", Times, serif;
+        }
+        h3{
+            font-family: "Times New Roman", Times, serif;
+        }
+        </style>
+    </head>
+     <body style="text-align:justify;color:black;">
+       <p>Cataleya intentó calmar a Valeria diciéndole: tranquila, no llores, no te va a pasar nada. !Yo te voy a cuidar!</p>
+     </body>
+    </html>
+    ]]>
+    </string>
+
+    <string name="parte4">
+    <![CDATA[
+    <html>
+        <head>
+        <style>
+        p {
+            font-family: "Times New Roman", Times, serif;
+        }
+        h3{
+            font-family: "Times New Roman", Times, serif;
+        }
+        </style>
+    </head>
+     <body style="text-align:justify;color:black;">
+       <p>Después de esto todos siguieron caminando hacia la escuela; al llegar, Mirella Vaca, la profesora, los esperaba
+       en la puerta con una sonrisa invitándolos a entrar con cariño. El primer día transcurrió con calma, todos los estudiantes
+        se conocieron, hicieron amigos y jugaron alegremente.</p>
+     </body>
+    </html>
+    ]]>
+    </string>
+
+    <string name="parte5">
+    <![CDATA[
+    <html>
+        <head>
+        <style>
+        p {
+            font-family: "Times New Roman", Times, serif;
+        }
+        h3{
+            font-family: "Times New Roman", Times, serif;
+        }
+        </style>
+    </head>
+     <body style="text-align:justify;color:black;">
+       <p>Pasado un mes llegó a la escuela una niña nueva llamada Maria Mónica Paloma, en su primer día no tuvo muchos
+       amigos pues era muy seria; la sorpresa se vio al día siguiente cuando en el descanso golpeó a Juan Felipe Lobo en la cara
+       cuando él la invitó a jugar. Todos sorprendidos fueron corriendo donde la profesora; ella rápidamente llamó a Maria Mónica
+       para preguntarle el porqué de su comportamiento, la niña sólo levantó los hombros con un gesto de enojo en su rostro diciendo:
+       no moleste. Por sus faltas a la convivencia fue castigada quedándose a hacer aseo sola.</p>
+     </body>
+    </html>
+    ]]>
+    </string>
+
+    <string name="parte6">
+    <![CDATA[
+    <html>
+        <head>
+        <style>
+        p {
+            font-family: "Times New Roman", Times, serif;
+        }
+        h3{
+            font-family: "Times New Roman", Times, serif;
+        }
+        </style>
+    </head>
+     <body style="text-align:justify;color:black;">
+       <p>Al día siguiente llegó Maria Mónica con una actitud peor, molestaba a todos sus compañeros  y ofendía a Valeria con apodos e insultos como
+        “gorda”, “marrana”, “dientona” y en la clase de artística  tomó su tijera y le cortó el cabello y su cuaderno. Por esta situación
+        la profesora llama los padres de Maria Mónica y juntos deciden dejarla castigada en los descansos, de manera que no
+        podrá compartir este momento con sus compañeros. </p>
+     </body>
+    </html>
+    ]]>
+    </string>
+
+    <string name="parte7">
+    <![CDATA[
+    <html>
+        <head>
+        <style>
+        p {
+            font-family: "Times New Roman", Times, serif;
+        }
+        h3{
+            font-family: "Times New Roman", Times, serif;
+        }
+        </style>
+    </head>
+     <body style="text-align:justify;color:black;">
+       <p>Por su parte, para Valeria, la escuela se ha convertido en una pesadilla, en casa llora todo el día y no quiere salir.
+       Pasa una semana antes de que sus padres la puedan tranquilizar y convencer para que regrese a clases. Mientras tanto, los
+       demás niños deciden defender a Valeria, algunos de ellos no lo hacen bien y comienzan a agredir a Maria Mónica de la misma
+       forma que ella lo hacía; la maestra al darse cuenta de esta situación reúne el grupo y lee un cuento ayudando a comprender
+       a los niños que la violencia sólo genera más violencia, todos se comprometen a mejorar su comportamiento. Sin embargo la niña
+       nueva perdió el afecto de todos y empiezan a ignorarla, ya nadie le habla, no la invitan a jugar y en alguna ocasión Juan Felipe
+       Lobo la empujó y cayó al suelo golpeándose la rodilla y se hinchó bastante.</p>
+     </body>
+    </html>
+    ]]>
+    </string>
+
+    <string name="parte8">
+    <![CDATA[
+    <html>
+        <head>
+        <style>
+        p {
+            font-family: "Times New Roman", Times, serif;
+        }
+        h3{
+            font-family: "Times New Roman", Times, serif;
+        }
+        </style>
+    </head>
+     <body style="text-align:justify;color:black;">
+       <p>El ambiente en la escuela se torna incómodo, Maria Mónica continúa con la misma conducta y Valeria se ve triste, se aleja del
+       grupo, no quiere hablar con nadie. Ante estas situaciones la profesora inicia una campaña antibullying, juntos hablaron sobre la
+       importancia de respetar a los otros, vieron videos sobre cómo se sienten las personas a las que otros molestan, a diario se hacían
+       juegos y dinámicas en equipos para mejorar la convivencia y también se invita a la policía a visitar el grupo y a hablar con los niños
+       para que se den cuenta de las consecuencias de agredir otras personas. Al llegar al salón, los niños comentan el problema que han tenido
+       y cómo han intentado solucionarlo de forma positiva y negativa, recibiendo consejos por su parte.</p>
+     </body>
+    </html>
+    ]]>
+    </string>
+
+    <string name="parte9">
+    <![CDATA[
+    <html>
+        <head>
+        <style>
+        p {
+            font-family: "Times New Roman", Times, serif;
+        }
+        h3{
+            font-family: "Times New Roman", Times, serif;
+        }
+        </style>
+    </head>
+     <body style="text-align:justify;color:black;">
+       <p>Tiempo después de estas intervenciones se evidencia más respeto en el grupo pero siguen ignorando a Maria Mónica; cansada
+       de esta situación ella se conmueve, sintiéndose sola y triste, así que toma una decisión, en clase va donde su profesora y le
+       pide permiso para decirle algo a sus compañeros, al estar frente a ellos salían lágrimas de sus ojos y con arrepentimiento le
+       pidió disculpas a su maestra y a todos, comprometiéndose  a no volver a hacer eso nunca.</p>
+     </body>
+    </html>
+    ]]>
+    </string>
+
+    <string name="parte10">
+    <![CDATA[
+    <html>
+        <head>
+        <style>
+        p {
+            font-family: "Times New Roman", Times, serif;
+        }
+        h3{
+            font-family: "Times New Roman", Times, serif;
+        }
+        </style>
+    </head>
+     <body style="text-align:justify;color:black;">
+       <p>Poco a poco, los niños fueron integrando a Mónica a sus juegos y actividades, volviéndose más amigos, aunque a Valeria le
+       costó mucho recobrar la confianza, abrió su corazón y creyó en su arrepentimiento, de esta forma la alegría regresó a todos
+       gracias al perdón y la reconciliación.</p>
+     </body>
+    </html>
+    ]]>
+    </string>
+
+    <string name="parte11">
+    <![CDATA[
+    <html>
+        <head>
+        <style>
+        p {
+            font-family: "Times New Roman", Times, serif;
+        }
+        h3{
+            font-family: "Times New Roman", Times, serif;
+        }
+        </style>
+    </head>
+     <body style="text-align:center;color:black;">
+       <p>Con amor y perdón lograremos la reconciliación.</p><br><br><br>
+     </body>
+    </html>
+    ]]>
+    </string>
+    <string name="title_activity_categories">Categories</string>
+
+</resources>
