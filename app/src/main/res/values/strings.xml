@@ -310,4 +310,79 @@
     </string>
     <string name="title_activity_categories">Categories</string>
 
+    <!--Texto de Personajes-->
+    <string name="introPersonajes">
+    <![CDATA[
+    <html>
+     <h1 style="font-weight:bold;color:brown;">Personajes</h1>
+     <body style="text-align:justify;color:black;">
+      <p>Los personajes principales de nuestra fábula nos dejan algunos mensajes desde la experiencia vivida.<br><br>
+      Escucha consejos, la experiencia de otros hacen mejor nuestro camino.</p>
+     </body>
+    </html>
+    ]]>
+    </string>
+
+    <string name="parte1Personajes">
+    <![CDATA[
+    <html>
+        <head>
+        <style>
+        p {
+            font-family: "Times New Roman", Times, serif;
+        }
+        h3{
+            font-family: "Times New Roman", Times, serif;
+        }
+        </style>
+    </head>
+     <body style="text-align:justify;color:black;">
+      <p>Valeria Jirafa nos cuenta cuánto sufrió a causa del bullying y en su frase expresa la
+      importancia del perdón.</p>
+     </body>
+    </html>
+    ]]>
+    </string>
+
+    <string name="parte2Personajes">
+    <![CDATA[
+    <html>
+        <head>
+        <style>
+        p {
+            font-family: "Times New Roman", Times, serif;
+        }
+        h3{
+            font-family: "Times New Roman", Times, serif;
+        }
+        </style>
+    </head>
+     <body style="text-align:justify;color:black;">
+      <p>Juan Felipe Lobo reflexiona sobre lo importante que es la tolerancia y que nada justifica un golpe.</p>
+     </body>
+    </html>
+    ]]>
+    </string>
+
+    <string name="parte3Personajes">
+    <![CDATA[
+    <html>
+        <head>
+        <style>
+        p {
+            font-family: "Times New Roman", Times, serif;
+        }
+        h3{
+            font-family: "Times New Roman", Times, serif;
+        }
+        </style>
+    </head>
+     <body style="text-align:justify;color:black;">
+      <p>La maestra Mirella Vaca invita a todas las personas a la prudencia,
+      a ponerse en los zapatos del otro y pensar antes de actuar.</p>
+     </body>
+    </html>
+    ]]>
+    </string>
+
 </resources>
