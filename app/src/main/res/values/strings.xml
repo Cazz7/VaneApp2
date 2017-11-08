@@ -385,7 +385,7 @@
     ]]>
     </string>
 
-    <!--Texto de Personajes-->
+    <!--Texto de Voces-->
     <string name="introVoces">
     <![CDATA[
     <html>
@@ -394,6 +394,62 @@
       <p>Algunos estudiantes del Centro Educativo decidieron enviar sus mensajes a la comunidad lectora,
       todos ellos pertenecen a los niveles de preescolar y básica primaria. Con esto esperan que sus voces
       muestren el valor que tiene la amistad en sus vidas.</p>
+     </body>
+    </html>
+    ]]>
+    </string>
+
+    <!--Texto de Reflexión-->
+    <string name="introReflexion">
+    <![CDATA[
+    <html>
+     <h1 style="font-weight:bold;color:brown;">Reflexiona</h1>
+    </html>
+    ]]>
+    </string>
+
+    <string name="parte1Reflexion">
+    <![CDATA[
+    <html>
+        <head>
+        <style>
+        p {
+            font-family: "Times New Roman", Times, serif;
+        }
+        h3{
+            font-family: "Times New Roman", Times, serif;
+        }
+        </style>
+    </head>
+     <body style="text-align:justify;color:black;">
+      <p>Una sonrisa puede cambiar tu día, puede cambiar tu
+      mundo, regala amor, sé tolerante, aporta para que el mundo sea un lugar mejor.<br><br>
+      Esta es la consigna que a diario debe grabarse en la mente y el corazón de la sociedad.</p>
+     </body>
+    </html>
+    ]]>
+    </string>
+
+    <string name="parte2Reflexion">
+    <![CDATA[
+    <html>
+        <head>
+        <style>
+        p {
+            font-family: "Times New Roman", Times, serif;
+        }
+        h3{
+            font-family: "Times New Roman", Times, serif;
+        }
+        u{
+            text-decoration: underline;
+        }
+        </style>
+    </head>
+     <body style="text-align:justify;color:black;">
+      <p>La docente y los niños del Centro Educativo Rural Santa nos unimos a la voz universal
+      que grita <u>"no más maltrato infantil"</u>. Por eso hoy enviamos CARTAS A LOS NIÑOS DEL MUNDO,
+      brindando una voz de aliento y esperanza.</p>
      </body>
     </html>
     ]]>
