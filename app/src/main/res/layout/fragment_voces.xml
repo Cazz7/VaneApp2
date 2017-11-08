@@ -4,10 +4,168 @@
     android:layout_height="match_parent"
     tools:context="com.projects.cristianzapata.vaneapp.tabVoces">
 
-    <!-- TODO: Update blank fragment layout -->
-    <TextView
+    <ScrollView
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:text="Voces" />
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:id="@+id/voces"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical">
+
+                    <WebView
+                        android:id="@+id/introduccionVoces"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"></WebView>
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical">
+
+                    <ImageView
+                        android:id="@+id/ivVocCamila"
+                        android:src="@drawable/voccamila"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:paddingBottom="10dp"/>
+
+                    <ImageView
+                        android:id="@+id/ivVocDahiana"
+                        android:src="@drawable/vocdahiana"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:paddingBottom="10dp"/>
+
+                    <ImageView
+                        android:id="@+id/ivVocEmanuelr"
+                        android:src="@drawable/vocemanuelr"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:paddingBottom="10dp"/>
+
+                    <ImageView
+                        android:id="@+id/ivVocEmmanuelz"
+                        android:src="@drawable/vocemmanelz"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:paddingBottom="10dp"/>
+
+                    <ImageView
+                        android:id="@+id/ivVocEstiven"
+                        android:src="@drawable/vocestiven"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:paddingBottom="10dp"/>
+
+                    <ImageView
+                        android:id="@+id/ivVocEstrella"
+                        android:src="@drawable/vocestrella"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:paddingBottom="10dp"/>
+
+                    <ImageView
+                        android:id="@+id/ivVocFelipe"
+                        android:src="@drawable/vocfelipe"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:paddingBottom="10dp"/>
+
+                    <ImageView
+                        android:id="@+id/ivVocJonathan"
+                        android:src="@drawable/vocjonathan"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:paddingBottom="10dp"/>
+
+                    <ImageView
+                        android:id="@+id/ivVocJuanPablo"
+                        android:src="@drawable/vocjuanpablo"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:paddingBottom="10dp"/>
+
+                    <ImageView
+                        android:id="@+id/ivVocJuliana"
+                        android:src="@drawable/vocjuliana"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:paddingBottom="10dp"/>
+
+                    <ImageView
+                        android:id="@+id/ivVocKarena"
+                        android:src="@drawable/vockarena"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:paddingBottom="10dp"/>
+
+                    <ImageView
+                        android:id="@+id/ivVocKarenc"
+                        android:src="@drawable/vockarenc"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:paddingBottom="10dp"/>
+
+                    <ImageView
+                        android:id="@+id/ivVocLuis"
+                        android:src="@drawable/vocluis"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:paddingBottom="10dp"/>
+
+                    <ImageView
+                        android:id="@+id/ivVocMariano"
+                        android:src="@drawable/vocmariano"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:paddingBottom="10dp"/>
+
+                    <ImageView
+                        android:id="@+id/ivVocSamuela"
+                        android:src="@drawable/vocsamuela"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:paddingBottom="10dp"/>
+
+                    <ImageView
+                        android:id="@+id/ivVocSamuelp"
+                        android:src="@drawable/vocsamuelp"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:paddingBottom="10dp"/>
+
+                    <ImageView
+                        android:id="@+id/ivVocSofia"
+                        android:src="@drawable/vocsofia"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:paddingBottom="10dp"/>
+
+                    <ImageView
+                        android:id="@+id/ivVocYisela"
+                        android:src="@drawable/vocyisela"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:paddingBottom="10dp"/>
+
+                </LinearLayout>
+
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
 
 </FrameLayout>

@@ -385,4 +385,18 @@
     ]]>
     </string>
 
+    <!--Texto de Personajes-->
+    <string name="introVoces">
+    <![CDATA[
+    <html>
+     <h1 style="font-weight:bold;color:brown;">Nuestras voces</h1>
+     <body style="text-align:justify;color:black;">
+      <p>Algunos estudiantes del Centro Educativo decidieron enviar sus mensajes a la comunidad lectora,
+      todos ellos pertenecen a los niveles de preescolar y básica primaria. Con esto esperan que sus voces
+      muestren el valor que tiene la amistad en sus vidas.</p>
+     </body>
+    </html>
+    ]]>
+    </string>
+
 </resources>
