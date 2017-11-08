@@ -20,13 +20,13 @@ public class tabVoces extends Fragment {
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
         // Inflate the layout for this fragment
-        View rootView = inflater.inflate(R.layout.fragment_personajes, container, false);
+        View rootView = inflater.inflate(R.layout.fragment_voces, container, false);
 
         // Se obtienen las webView para los textos
         final WebView wvVocesIntro = (WebView) rootView.findViewById(R.id.introduccionVoces);
 
         // Se adiciona el texto
-        wvVocesIntro.loadData(getString(R.string.introPersonajes), "text/html; charset=utf-8", "utf-8");
+        wvVocesIntro.loadData(getString(R.string.introVoces), "text/html; charset=utf-8", "utf-8");
 
         return rootView;
     }
